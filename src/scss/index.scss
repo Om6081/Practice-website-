@@ -1,0 +1,32 @@
+*{ 
+    box-sizing: border-box;
+
+}
+header{
+    font-size: 1rem;
+    background-color: rgb(73, 7, 7);
+    display: flex;
+    color: blanchedalmond;
+    padding: 30px; 
+    float: right;
+width: 100%;
+} 
+body{
+    background-image: url('img/coffee-photo.jpg');
+}
+button {
+
+    color:white;
+    background-color: red ;
+    border: 1px solid white;
+    border -radius:5px; 
+line-height: 4rem;
+font-size: 1.2rem;
+padding:0 2rem;
+
+}
+
+.spacer{
+
+    margin:4rem 0; 
+}
